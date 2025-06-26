@@ -6,3 +6,5 @@ The goal is to implement the very popular printf function from the C standard li
 
 This project learnt me how to manage variable arguments with stdarg.h functions and parsing/writing of format strings (%c, %s, %p, %d, %i, %u, %x, %X, %%) to the standard output with write().
 It also reiterates the importance of properly allocating and freeing data.
+
+Grade: 100
